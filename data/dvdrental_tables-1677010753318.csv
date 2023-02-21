@@ -1,0 +1,4 @@
+"order_id","company_name","address","city","phone","order_date"
+"1",Acme,"14 Hollywood Blvd",Los Angeles,"646-555-1234","2015-01-14"
+"2",Amazon,"2801 S Western Ave",Chicago,"234-345-5151","2015-05-12"
+"3",Netflix,"888 Broadway",New York,"642-612-6121","2015-07-06"
